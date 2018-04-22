@@ -1,2 +1,2 @@
 # CodeAcademy
-Code Academy practice projects
+Code Academy practice projects, different subfolder for different language
